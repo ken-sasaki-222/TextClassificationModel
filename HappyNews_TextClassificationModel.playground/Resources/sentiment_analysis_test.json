@@ -1,0 +1,186 @@
+[
+  {
+      "text": "移籍に沢村 楽しみでしかない",
+      "label": "positive"
+  },
+  {
+      "text": "「浅田飴」の工場でクレーン倒壊",
+      "label": "negative"
+  },
+  {
+      "text": "MFハメス移籍 プレミア初上陸",
+      "label": "positive"
+  },
+  {
+      "text": "イベント制限 19日にも緩和へ",
+      "label": "positive"
+  },
+  {
+      "text": "原監督が奇策 打席途中で継投",
+      "label": "positive"
+  },
+  {
+      "text": "GDP 年率28.1%減に下方修正",
+      "label": "negative"
+  },
+  {
+      "text": "田沢ルール撤廃 本人は感謝",
+      "label": "positive"
+  },
+  {
+      "text": "NPBドラフトはリモート開催",
+      "label": "positive"
+  },
+  {
+      "text": "「うるさいニャ～」ドローンを”猫パンチ”で撃墜 「野性が目覚めた」と話題",
+      "label": "positive"
+  },
+  {
+      "text": "10月改編バイキング1時間拡大",
+      "label": "positive"
+  },
+  {
+      "text": "北川景子 第1子女児を出産",
+      "label": "positive"
+  },
+  {
+      "text": "日産報酬隠し",
+      "label": "negative"
+  },
+  {
+      "text": "別の偽証依頼 秋元議員再逮捕へ",
+      "label": "negative"
+  },
+  {
+      "text": "KOC2020 決勝進出10組が決定",
+      "label": "positive"
+  },
+  {
+      "text": "サウジ記者殺害 死刑を減刑か",
+      "label": "negative"
+  },
+  {
+      "text": "ベラルーシ、633人を拘束",
+      "label": "negative"
+  },
+  {
+      "text": "英刺殺事件 容疑者の男を逮捕",
+      "label": "negative"
+  },
+  {
+      "text": "Netflix 日本会員500万人突破",
+      "label": "positive"
+  },
+  {
+      "text": "買い物中の12歳も拘束 香港",
+      "label": "negative"
+  },
+  {
+      "text": "再び感染者増 活気失うハワイ",
+      "label": "negative"
+  },
+  {
+      "text": "SNS「危ないやりとり」の実態",
+      "label": "negative"
+  },
+  {
+      "text": "爆問・田中が退院",
+      "label": "positive"
+  },
+  {
+      "text": "剛力が短編映画主演 独立後初",
+      "label": "positive"
+  },
+  {
+      "text": "半沢直樹 ギリギリの現場",
+      "label": "positive"
+  },
+  {
+      "text": "群馬の温泉地需要 なぜ急回復",
+      "label": "positive"
+  },
+  {
+      "text": "七十七銀で預金引き出し被害",
+      "label": "negative"
+  },
+  {
+      "text": "IOC副会長 コロナ関係なく開催",
+      "label": "negative"
+  },
+  {
+      "text": "Amazonやらせ 異例の刑事罰",
+      "label": "negative"
+  },
+  {
+      "text": "車を避難所代わり 絶対にダメ",
+      "label": "negative"
+  },
+  {
+      "text": "長靴での避難は「絶対ダメ」",
+      "label": "negative"
+  },
+  {
+      "text": "川見回りやめて 危険なNG行動",
+      "label": "negative"
+  },
+  {
+      "text": "過酷な避難所生活 心保つには",
+      "label": "negative"
+  },
+  {
+      "text": "段ボールは害虫増殖招く 注意",
+      "label": "negative"
+  },
+  {
+      "text": "貨物船遭難",
+      "label": "negative"
+  },
+  {
+      "text": "今できる 楽しいランタン作り",
+      "label": "positive"
+  },
+  {
+      "text": "避難所満員「2回も振られた」",
+      "label": "negative"
+  },
+  {
+      "text": "台風 九州などで100人超けが",
+      "label": "negative"
+  },
+  {
+      "text": "避難先で94歳死亡 CO中毒か",
+      "label": "negative"
+  },
+  {
+      "text": "盗難豚730頭の行方",
+      "label": "negative"
+  },
+  {
+      "text": "放置死 車内で心臓マッサージ",
+      "label": "negative"
+  },
+  {
+      "text": "琵琶湖で不明の学生 遺体発見",
+      "label": "negative"
+  },
+  {
+      "text": "コロナ禍で仕事を失い",
+      "label": "negative"
+  },
+  {
+      "text": "「台風で被災」投稿 なぜ危険",
+      "label": "negative"
+  },
+  {
+      "text": "ムバッペも感染 PSGで7人目",
+      "label": "negative"
+  },
+  {
+      "text": "8月水揚げ サンマ記録的不漁",
+      "label": "negative"
+  },
+  {
+      "text": "コロナ倒産",
+      "label": "negative"
+  }
+]

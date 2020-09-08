@@ -1,0 +1,946 @@
+[
+  {
+    "text": "死亡",
+    "label": "negative"
+  },
+  {
+    "text": "殺人",
+    "label": "negative"
+  },
+  {
+    "text": "犯罪",
+    "label": "negative"
+  },
+  {
+    "text": "新型コロナウイルス",
+    "label": "negative"
+  },
+  {
+    "text": "感染拡大",
+    "label": "negative"
+  },
+  {
+    "text": "感染",
+    "label": "negative"
+  },
+  {
+    "text": "不倫",
+    "label": "negative"
+  },
+  {
+    "text": "わいせつ",
+    "label": "negative"
+  },
+  {
+    "text": "強制わいせつ",
+    "label": "negative"
+  },
+  {
+    "text": "強姦",
+    "label": "negative"
+  },
+  {
+    "text" : "強盗",
+    "label": "negative"
+  },
+  {
+    "text": "窃盗",
+    "label": "negative"
+  },
+  {
+    "text": "暴行",
+    "label": "negative"
+  },
+  {
+    "text": "拳銃",
+    "label": "negative"
+  },
+  {
+    "text": "刃物",
+    "label": "negative"
+  },
+  {
+    "text": "災害",
+    "label": "negative"
+  },
+  {
+    "text" : "暴力",
+    "label": "negative"
+  },
+  {
+    "text": "崩壊",
+    "label": "negative"
+  },
+  {
+    "text": "火事",
+    "label": "negative"
+  },
+  {
+    "text": "火災",
+    "label": "negative"
+  },
+  {
+    "text": "放火",
+    "label": "negative"
+  },
+  {
+    "text": "死体",
+    "label": "negative"
+  },
+  {
+    "text": "死体遺棄",
+    "label": "negative"
+  },
+  {
+    "text": "水害",
+    "label": "negative"
+  },
+  {
+    "text": "誘拐",
+    "label": "negative"
+  },
+  {
+    "text": "暴力団",
+    "label": "negative"
+  },
+  {
+    "text": "殺傷事件",
+    "label": "negative"
+  },
+  {
+    "text": "監禁",
+    "label": "negative"
+  },
+  {
+    "text": "煽り運転",
+    "label": "negative"
+  },
+  {
+    "text": "暴走",
+    "label": "negative"
+  },
+  {
+    "text": "出産",
+    "label": "positive"
+  },
+  {
+    "text": "結婚",
+    "label": "positive"
+  },
+  {
+    "text": "婚約",
+    "label": "positive"
+  },
+  {     
+    "text": "披露宴",
+    "label": "positive"
+  },
+  {
+    "text": "奇跡",
+    "label": "positive"
+  },
+  {
+    "text": "地震対策",
+    "label": "positive"
+  },
+  {
+    "text": "水害対策",
+    "label": "positive"
+  },
+  {
+    "text": "災害対策",
+    "label": "positive"
+  },
+  {
+    "text": "復興",
+    "label": "positive"
+  },
+  {
+    "text": "無免許でパトに当て逃げ、女逮捕",
+    "label": "negative"
+  },
+  {
+    "text": "NY株 約半年ぶりの高値水準",
+    "label": "positive"
+  },
+  {
+    "text": "木村文乃 テレ朝連ドラで初主演",
+    "label": "positive"
+  },
+  {
+    "text": "Zeebra、不倫報道について謝罪",
+    "label": "negative"
+  },
+  {
+    "text": "レイズ・筒香が4号、5番DHで出場",
+    "label": "positive"
+  },
+  {
+    "text": "河井夫妻きょう初公判 焦点は",
+    "label": "negative"
+  },
+  {
+    "text": "ハンド宮崎大輔 離婚前に同棲",
+    "label": "negative"
+  },
+  {
+    "text": "大坂なおみ 再開初戦は白星",
+    "label": "positive"
+  },
+  {
+    "text": "サンマ初競り「異常な高値」",
+    "label": "negative"
+  },
+  {
+    "text": "嘱託殺人 無自覚なヘイト投稿",
+    "label": "negative"
+  },
+  {
+    "text": "GoToトラベル 1カ月で200万人",
+    "label": "positive"
+  },
+  {
+    "text": "石橋貴明 20年ぶりNHK生出演へ",
+    "label": "positive"
+  },
+  {
+    "text": "元衆院副議長 渡部恒三氏が死去",
+    "label": "negative"
+  },
+  {
+    "text": "菊地亜美 第1子女児を出産",
+    "label": "positive"
+  },
+  {
+    "text": "お家プールでも溺れるリスク",
+    "label": "negative"
+  },
+  {
+    "text": "24時間テレビ 瞬間最高27.6%",
+    "label": "positive"
+  },
+  {
+    "text": "感染重症者 ピークこれからか",
+    "label": "negative"
+  },
+  {
+    "text": "So Far So Good!.",
+    "label": "positive"
+  },
+  {
+    "text": "米でパンダ高齢出産「奇跡」",
+    "label": "positive"
+  },
+  {
+    "text": "コロナとインフル 冬どうなる",
+    "label": "negative"
+  },
+  {
+    "text": "炎天下の車 キー閉じ込み警鐘",
+    "label": "negative"
+  },
+  {
+    "text": "えげつない ダルに主砲が驚く",
+    "label": "positive"
+  },
+  {
+    "text": "お家プールでも溺れるリスク",
+    "label": "negative"
+  },
+  {
+    "text": "大谷 今季最長134m逆転3ラン",
+    "label": "positive"
+  },
+  {
+    "text": "黒人銃撃の抗議 一部暴徒化",
+    "label": "negative"
+  },
+  {
+    "text": "崖のヤギ・ポニョ 一般公開へ",
+    "label": "positive"
+  },
+  {
+    "text": "【ランキング】ビジネス・経済書トップ200冊(東洋経済オンライン)",
+    "label": "positive"
+  },
+  {
+    "text": "転覆漁船 残る3人の捜索継続",
+    "label": "negative"
+  },
+  {
+    "text": "研修で人格否定 大学を提訴",
+    "label": "negative"
+  },
+  {
+    "text": "豚約670頭が盗まれる 群馬",
+    "label": "negative"
+  },
+  {
+    "text": "東海３県に高温注意情報、熱中症に注意、名古屋は１２日連続猛暑日予想",
+    "label": "negative"
+  },
+  {
+    "text": "GUの1990円スニーカー、adidasスタンスミス風で機能性は本家以上かも",
+    "label": "positive"
+  },
+  {
+    "text": "パトカー追跡から逃げた乗用車がタクシーと衝突、名古屋市東区",
+    "label": "negative"
+  },
+  {
+    "text": "「言いたいことも言えない、窮屈な世の中」という言葉に隠されたズルさ",
+    "label": "negative"
+  },
+  {
+    "text": "小学校で授業が再開",
+    "label": "positive"
+  },
+  {
+    "text": "一部の不倫報道を謝罪",
+    "label": "negative"
+  },
+  {
+    "text": "コロナ禍で「地震対策への意識が高まった」人が増加",
+    "label": "positive"
+  },
+  {
+    "text": "炎天下の車中休憩もエアコン不可!? アイドリング・ストップ条例の熱中症対策はどうなる？",
+    "label": "negative"
+  },
+  {
+    "text": "アニメ版『ドラゴンズドグマ』の予告映像とキーアートが公開！剣と盾で戦う主人公のイーサンと弓で敵を射抜くハンナの姿が明らかに",
+    "label": "positive"
+  },
+  {
+    "text": "「生えなかった…」被害女性続出、薄毛ビジネスのひどい実態",
+    "label": "negative"
+  },
+  {
+    "text": "上白石萌音がミキの「トロールズ」吹き替えを絶賛、亜生「ある意味僕の映画」",
+    "label": "positive"
+  },
+  {
+    "text": "数千万円の損…自宅を建てるのに「お客様態度」だとダメな理由",
+    "label": "negative"
+  },
+  {
+    "text": "高橋尚子さん発案「募金ラン」舞台裏 世帯視聴率11・6％ 翌日も高い関心",
+    "label": "positive"
+  },
+  {
+    "text": "コロナ禍で住宅ローンが払えない…相談件数は77倍",
+    "label": "negative"
+  },
+  {
+    "text": "宿敵のドラゴンを追い求める“覚者”イーサンの姿が Netflix『ドラゴンズドグマ』予告編公開",
+    "label": "positive"
+  },
+  {
+    "text": "ゆきぽよ“ガチ勝負下着”グラビア Tバック＆シースルーまとい「お尻ってかわいいじゃん」",
+    "label": "positive"
+  },
+  {
+    "text": "10世帯に1世帯が家を失う",
+    "label": "negative"
+  },
+  {
+    "text": "「やりたい仕事が見つからない」と悩む人が知るべき4つのこと",
+    "label": "negative"
+  },
+  {
+    "text": "キム・ヨハン、今日（25日）Zion.Tプロデュース曲「No More」でソロデビュー…ファンの愛に報いる",
+    "label": "positive"
+  },
+  {
+    "text": "コロナ不況で倒れる会社と踏ん張る会社の大差",
+    "label": "negative"
+  },
+  {
+    "text": "マスク越しに訴える平和 原爆ドーム前、寂しき伝承",
+    "label": "negative"
+  },
+  {
+    "text": "毎年注目される「水卜アナ」の24時間テレビ「ムチムチTシャツ姿」、今年はネットで称賛の声！",
+    "label": "positive"
+  },
+  {
+    "text": "山田優、スケスケの赤エプロンを使った私服コーデ公開　「可愛すぎてドキドキ」",
+    "label": "positive"
+  },
+  {
+    "text": "半導体生産拠点の施設管理を請け負う新会社をNECとソニーが共同で設立",
+    "label": "positive"
+  },
+  {
+    "text": "朝ドラ",
+    "label": "positive"
+  },
+  {
+    "text": "三菱電機の3万円のトースターが売れる理由",
+    "label": "positive"
+  },
+  {
+    "text": "肺炎で死去",
+    "label": "negative"
+  },
+  {
+    "text": "混ぜるだけで本格フレンチの味「私のフランス料理」 巣ごもり需要で出荷240％",
+    "label": "positive"
+  },
+  {
+    "text": "理系脳を育てるひらめきパズル",
+    "label": "positive"
+  },
+  {
+    "text": "ゾウ殺害を命じた初代都長官とは",
+    "label": "negative"
+  },
+  {
+    "text": "河井夫妻から現金、でも起訴されない理由",
+    "label": "negative"
+  },
+  {
+    "text": "“ニューノーマル”時代の売れ筋を探せ！ 薄色レンズのサングラスとイヤカフがマスクとのコーデで浮上(",
+    "label": "positive"
+  },
+  {
+    "text": "幻の日本導入宣言から15年!! ホンダ的高級車「アキュラ」の今",
+    "label": "positive"
+  },
+  {
+    "text": "コロナ禍と五輪",
+    "label": "negative"
+  },
+  {
+    "text": "新型コロナがＮＰＯ法人に落とす影 ＮＺ、募金活動できず苦境に",
+    "label": "negative"
+  },
+  {
+    "text": "受刑者ら犠牲",
+    "label": "negative"
+  },
+  {
+    "text": "見分けつかない熱中症と新型コロナ 倦怠感、頭痛、高体温…似通う症状",
+    "label": "negative"
+  },
+  {
+    "text": "リラックマの顔がアイスクリームメーカーに。ヴィレヴァン販売",
+    "label": "positive"
+  },
+  {
+    "text": "伊藤忠、三菱商事…待遇への満足度は？総合商社8社ランキング",
+    "label": "positive"
+  },
+  {
+    "text": "藤井棋聖、次は「最年少名人」に注目 史上初の１０代で二冠達成",
+    "label": "positive"
+  },
+  {
+    "text": "弱き者容赦なく切り捨てる戦争 戦中・戦後の生活者の記録",
+    "label": "negative"
+  },
+  {
+    "text": "安楽死議論の先送りが招いた嘱託殺人",
+    "label": "negative"
+  },
+  {
+    "text": "ソニーのカメラをWebカメラ化するアプリで、Web会議してみた",
+    "label": "positive"
+  },
+  {
+    "text": "70年前の車なのに今もカリスマ的人気 R32スカイラインGT-Rとは？",
+    "label": "positive"
+  },
+  {
+    "text": "７０周年を迎えるペコちゃん～永遠のママの味～",
+    "label": "positive"
+  },
+  {
+    "text": "ワクチン開発最前線",
+    "label": "positive"
+  },
+  {
+    "text": "「ネタ試合すぎる」とネット騒然 ムエタイ強豪、MMAデビューも“2つの凡ミス”でまさかの敗戦",
+    "label": "negative"
+  },
+  {
+    "text": "西武高橋光成６回３失点 ３回以降は立ち直り修正",
+    "label": "positive"
+  },
+  {
+    "text": "笑福亭松之助さんとＷヤング上方演芸の殿堂入り選出",
+    "label": "positive"
+  },
+  {
+    "text": "「重機が穴に転落したようだ」 操縦していた男性作業員が不明 横浜の工事現場",
+    "label": "negative"
+  },
+  {
+    "text": "日本ハム・ビヤヌエバ、復帰戦で二塁打＆激走生還",
+    "label": "positive"
+  },
+  {
+    "text": "TikTok、トランプ政権を提訴 ユーザー「やることがなくなるから禁止してほしくない」",
+    "label": "negative"
+  },
+  {
+    "text": "阪神サンズが得意火曜に適時打「なんとか外野まで」",
+    "label": "positive"
+  },
+  {
+    "text": "“どんなときもWiFi” 突然の終了にネット民がショック「どんなときもじゃなかった」",
+    "label": "negative"
+  },
+  {
+    "text": "つるの剛士、高熱と咳で仕事欠席「しっかり療養し完治させます」PCR検査は陰性",
+    "label": "negative"
+  },
+  {
+    "text": "阪神陽川３番起用応え２打席連続打点、犠飛＆適時打",
+    "label": "positive"
+  },
+  {
+    "text": "グラシアルが待望１号「手応えは完璧」高谷とパフォ",
+    "label": "positive"
+  },
+  {
+    "text": "「いじめが起こりにくいクラスを作れない」現状も",
+    "label": "negative"
+  },
+  {
+    "text": "Ｊ観戦時の手拍子容認へ、酒類販売解禁は先延ばし",
+    "label": "positive"
+  },
+  {
+    "text": "阪神木浪が捨て身背走スーパーキャッチ、首で１回転",
+    "label": "positive"
+  },
+  {
+    "text": "コロナ禍で今後いじめ増”教職員の9割が懸念”",
+    "label": "negative"
+  },
+  {
+    "text": "「東京をGoToトラベルに」 公明党・山口代表が政府に求める(",
+    "label": "positive"
+  },
+  {
+    "text": "産後1ヶ月のhitomi、第4子の成長に喜びと“悩み” 「ムチムチ可愛い」「愛しいですね」の声",
+    "label": "positive"
+  },
+  {
+    "text": "いたひかるが“骨頭壊死”の診断「朝起きた時に一歩が踏み出しにくくて」",
+    "label": "negative"
+  },
+  {
+    "text": "ウサイン・ボルト氏が新型コロナ陽性",
+    "label": "negative"
+  },
+  {
+    "text": "羽生善治九段、タイトル100期の挑戦権に王手なるか 丸山忠久九段をややリード 白熱の夜戦へ／将棋・竜王戦挑決三番勝負",
+    "label": "positive"
+  },
+  {
+    "text": "河井夫妻の弁護人が保釈請求 初公判で無罪主張",
+    "label": "negative"
+  },
+  {
+    "text": "東京都で新たに182人の感染確認 再び100人台 重症者は4人減り34人",
+    "label": "negative"
+  },
+  {
+    "text": "くまモンやふなっしーが筋肉ムキムキに!? 「デカビタC」とご当地キャラコラボのWeb動画に大反響",
+    "label": "positive"
+  },
+  {
+    "text": "「家族と通話目的」私的な理由で座礁、1000トンを超える重油流出の可能性 25日に裁判",
+    "label": "negative"
+  },
+  {
+    "text": "後藤真希が「モフモフが爆発寸前」な愛猫と戯れる動画に「たまらん、、」「猫になりたい」の声",
+    "label": "positive"
+  },
+  {
+    "text": "恋人・夫婦間でも無意識のうちに加害者に…“性的同意”、あなたは意識している",
+    "label": "negative"
+  },
+  {
+    "text": "日経平均値上がり “コロナ前”の水準を回復",
+    "label": "positive"
+  },
+  {
+    "text": "ピコ太郎、ピカチュウとコラボした新曲『PIKA to PIKO』31日に配信「全世界の子供たちに楽しんでもらいたい」",
+    "label": "positive"
+  },
+  {
+    "text": "河井夫妻が無罪主張 去年の参院挙めぐる買収事件で初公判",
+    "label": "negative"
+  },
+  {
+    "text": "テイラー・スウィフト、ロンドンの学生に320万円の学費寄付 「意欲や熱心さに感銘を受けた」(",
+    "label": "positive"
+  },
+  {
+    "text": "感染症法上の措置・運用について厚労省ワーキンググループで検討へ 新型コロナウイルス",
+    "label": "negative"
+  },
+  {
+    "text": "羽生善治九段、タイトル100期挑戦へ踏ん張れるか 丸山忠久九段と第2局開始／将棋・竜王戦挑決三番勝負",
+    "label": "positive"
+  },
+  {
+    "text": "I purcashed this for the car charger and it does not work.",
+    "label": "negative"
+  },
+  {
+    "text": "深谷知広が逃げて決勝進出「手応えを掴んでいる」",
+    "label": "positive"
+  },
+  {
+    "text": "平原康多が通算400勝達成＆決勝進出「がむしゃらにやっているだけ」",
+    "label": "positive"
+  },
+  {
+    "text": "山田久徳がバースデー勝利で決勝へ「良いことあった」",
+    "label": "positive"
+  },
+  {
+    "text": "渡辺大夢五段が高野智史五段に勝利 二次予選進出決定",
+    "label": "positive"
+  },
+  {
+    "text": "上田桃子の頭をコーチが“コツン” 運を味方につけた場面でのやり取りが「微笑ましい」と話題",
+    "label": "positive"
+  },
+  {
+    "text": "「知能指数が高すぎる…」予想を上回った猫の珍行動 “怒るより褒める”と反響の声",
+    "label": "positive"
+  },
+  {
+    "text": "愛車炎上",
+    "label": "negative"
+  },
+  {
+    "text": "渡辺大夢五段 対 高野智史五段 二次予選進出かけ対局開始",
+    "label": "positive"
+  },
+  {
+    "text": "吉岡里帆、浴衣を着た“どんぎつね”姿が話題「可愛すぎます！癒されました！」「なんて愛らしいの…」",
+    "label": "positive"
+  },
+  {
+    "text": "上田桃子、全英でも信念を貫いたクラブセッティング 「クラブを替えない」が奏功した？",
+    "label": "positive"
+  },
+  {
+    "text": "神田うの、8歳長女と“お揃い”で原宿デート 「凄くお綺麗」「とっても可愛い」と反響",
+    "label": "positive"
+  },
+  {
+    "text": "病院置き去り 遺棄容疑で逮捕",
+    "label": "negative"
+  },
+  {
+    "text": "BUMP藤原基央結婚で『新世界』の歌詞を連想する声「グッとくる」「今日はベイビーアイラブユー記念日」",
+    "label": "positive"
+  },
+  {
+    "text": "克行被告 証人の秘書を非難",
+    "label": "negative"
+  },
+  {
+    "text": "フードを裏返すと恋人募集中？学校での謎ルールに共感の声続出",
+    "label": "positive"
+  },
+  {
+    "text": "「お腹に赤ちゃんがいるから勝てるよ」妻の言葉で奮起した秀樹、復活KO勝利でRISEトーナメント参戦をアピール",
+    "label": "positive"
+  },
+  {
+    "text": "性被害者の氏名伏せ立件 検討",
+    "label": "negative"
+  },
+  {
+    "text": "キングダム作者 今年3月離婚",
+    "label": "negative"
+  },
+  {
+    "text": "スタイリング剤で気軽に変身！ イメチェンが叶うスタイル3選",
+    "label": "positive"
+  },
+  {
+    "text": "台風 停電後の通電火災に注意",
+    "label": "negative"
+  },
+  {
+    "text": "INumberに藤井二冠 20万部超え",
+    "label": "positive"
+  },
+  {
+    "text": "家庭の貯蓄率 19年ぶり高水準",
+    "label": "positive"
+  },
+  {
+    "text": "興行責任重い 先陣切る海老蔵",
+    "label": "positive"
+  },
+  {
+    "text": "メリー氏 ジャニ代表取締役退任",
+    "label": "positive"
+  },
+  {
+    "text": "「ミサイル阻止」年内に結論",
+    "label": "negative"
+  },
+  {
+    "text": "北朝鮮 台風9号で数十人死亡",
+    "label": "negative"
+  },
+  {
+    "text": "大坂なおみ激闘制し16強 全米",
+    "label": "positive"
+  },
+  {
+    "text": "ドラフト オンライン開催検討",
+    "label": "positive"
+  },
+  {
+    "text": "台風対策で給気口ふさぐ 注意",
+    "label": "negative"
+  },
+  {
+    "text": "メッシ 一転バルサ残留を表明",
+    "label": "positive"
+  },
+  {
+    "text": "福井の地震 専門家は連鎖警戒",
+    "label": "negative"
+  },
+  {
+    "text": "コロナ禍の避難 持参すべき物",
+    "label": "negative"
+  },
+  {
+    "text": "克行被告 証人の秘書を非難",
+    "label": "negative"
+  },
+  {
+    "text": "爆発1カ月 レバノン遠い復興",
+    "label": "negative"
+  },
+  {
+    "text": "香港で拘束の男性 日本国籍なし",
+    "label": "negative"
+  },
+  {
+    "text": "柴崎 スペイン2部移籍で合意",
+    "label": "positive"
+  },
+  {
+    "text": "パキスタン感染収束か 困惑も",
+    "label": "negative"
+  },
+  {
+    "text": "メッシ クラブ体制厳しく批判",
+    "label": "negative"
+  },
+  {
+    "text": "ウィリアムズ家 F1撤退へ",
+    "label": "negative"
+  },
+  {
+    "text": "Amazonやらせ 異例の刑事罰",
+    "label": "negative"
+  },
+  {
+    "text": "マスク着用困難 発達障害56%",
+    "label": "negative"
+  },
+  {
+    "text": "APSG 新たに3選手がコロナ陽性",
+    "label": "negative"
+  },
+  {
+    "text": "山田哲 G・SB・楽天争奪戦か<",
+    "label": "positive"
+  },
+  {
+    "text": "高潮の被害 洪水と同じ状況",
+    "label": "negative"
+  },
+  {
+    "text": "瞬間風速80m超どれほど危険か",
+    "label": "negative"
+  },
+  {
+    "text": "Zoom「上座表示」機能を追加",
+    "label": "positive"
+  },
+  {
+    "text": "コロナで出産数減? 緊急調査",
+    "label": "negative"
+  },
+  {
+    "text": "米Niantic 社員に1週間の休暇",
+    "label": "positive"
+  },
+  {
+    "text": "note 年齢確認画面を追加",
+    "label": "positive"
+  },
+  {
+    "text": "Intel企業ロゴ変更 14年ぶり ",
+    "label": "positive"
+  },
+  {
+    "text": "女児を2日半連れ回す 男逮捕",
+    "label": "negative"
+  },
+  {
+    "text": "古代のメガロドン 体長判明か",
+    "label": "positive"
+  },
+  {
+    "text": "復旧遠い球磨村 10号に不安",
+    "label": "negative"
+  },
+  {
+    "text": "病院置き去り 遺棄容疑で逮捕",
+    "label": "negative"
+  },
+  {
+    "text": "フンに鳴き声 サギに住民苦悩",
+    "label": "negative"
+  },
+  {
+    "text": "沖縄 独自の緊急宣言5日解除",
+    "label": "positive"
+  },
+  {
+    "text": "貨物船遭難 救助の男性死亡",
+    "label": "negative"
+  },
+  {
+    "text": "台風10号 あすの夜から月曜日にかけて西日本は大荒れの予想 特別警報の可能性も",
+    "label": "positive"
+  },
+  {
+    "text": "大人は救えない さまよう若者",
+    "label": "negative"
+  },
+  {
+    "text": "鹿児島の島 初の集団島外避難",
+    "label": "negative"
+  },
+  {
+    "text": "小さな駅前のビッグな鉄道ミュージアム(",
+    "label": "positive"
+  },
+  {
+    "text": "今から備えを！ 台風10号の脅威 観測史上最強クラス 暴風、高波・高潮に警戒を",
+    "label": "negative"
+  },
+  {
+    "text": "被爆資料２万点がほぼ死蔵 崎原爆資料館 学芸員不足、調査分析追いつかず",
+    "label": "negative"
+  },
+  {
+    "text": "ハメスとアランの獲得で古豪エヴァートン復活なるか！？",
+    "label": "positive"
+  },
+  {
+    "text": "女将の手作り料理が今や名物に 名棋士の要望に応えた気配りで生まれた「陣屋カレー」",
+    "label": "positive"
+  },
+  {
+    "text": "プレーオフ決勝の前哨戦！？首位ブランビーズと2位レッズが最終ラウンドで激突！",
+    "label": "positive"
+  },
+  {
+    "text": "日本人男子ボディビル初のIFBB ELITE PRO横川尚隆がツール・ド・フランス公認トレーニングバイクを体験！",
+    "label": "positive"
+  },
+  {
+    "text": "大野均×大西将太郎 台所のアスリート対談(",
+    "label": "positive"
+  },
+  {
+    "text": "黒い雨の真実、４０年を振り返る 控訴した国の懸念と終わらない闘い",
+    "label": "negative"
+  },
+  {
+    "text": "新型コロナ感染者なのに、なぜ〝健康〟を装うのか",
+    "label": "negative"
+  },
+  {
+    "text": "台風10号 あすの夜から月曜日にかけて西日本は大荒れの予想 特別警報の可能性も",
+    "label": "negative"
+  },
+  {
+    "text": "「オンラインゲームで知り合った」横浜市の小4女児を誘拐容疑で38歳男を逮捕",
+    "label": "negative"
+  },
+  {
+    "text": "コンド那須川天心も興奮！",
+    "label": "positive"
+  },
+  {
+    "text": "ゴーン被告“逃亡ほう助” 米国人親子の日本への身柄引き渡し認める",
+    "label": "negative"
+  },
+  {
+    "text": "「お年寄りに早く具体的な行動を促して。避難するのであれば5日のうちに」“特別警報級”",
+    "label": "negative"
+  },
+  {
+    "text": "てくてく、てく… 飼い主の作戦をわずか10分で攻略した鷹 「歩いてるの可愛い」と話題",
+    "label": "positive"
+  },
+  {
+    "text": "「お墓離れ」がコロナ禍でさらに加速? ",
+    "label": "negative"
+  },
+  {
+    "text": "「ドファーっと出そう」YAMAHAの“ピアノ仕様”消毒液スタンドに反響",
+    "label": "positive"
+  },
+  {
+    "text": "ドイツ人研究者によるウイグル自治区“強制不妊リポート” 中国が真っ向反論",
+    "label": "negative"
+  },
+  {
+    "text": "高い再犯率の中、わいせつ教員は5年経てば失効した免許が再取得できる? 専門家「子どもから遠ざけることが重要」",
+    "label": "negative"
+  },
+  {
+    "text": "山陽新幹線 7日始発から運行見合わせの可能性 JR西日本",
+    "label": "negative"
+  },
+  {
+    "text": "飼育員も知らぬ間に誕生！ 「ヒョウモンガメ」の赤ちゃんが公開",
+    "label": "positive"
+  },
+  {
+    "text": "飼い主に“懐きすぎた”シマリス、主に駆け寄る驚異的な動きが「空中で泳いでる」と話題",
+    "label": "positive"
+  },
+  {
+    "text": "東京都で新たに136人の感染を確認 小池都知事「再び増加に転じないよう厳重な警戒必要」",
+    "label": "negative"
+  },
+  {
+    "text": "高級すし店には不適切？ 「タトゥーがある」だけで男性解雇 “タトゥー＝NG”の是非",
+    "label": "negative"
+  },
+  {
+    "text": "幻のきのこ",
+    "label": "positive"
+  },
+  {
+    "text": "堀田茜、トップコート移籍後初のインスタ更新「これからも私らしく」意気込みつづる",
+    "label": "positive"
+  },
+  {
+    "text": "コロナ感染を公表",
+    "label": "negative"
+  }
+]
