@@ -19,6 +19,9 @@ do {
 """
     print(stats)
     
+    //テキスト分類の作成とトレーニング
+    let sentimentClassifier = try MLTextClassifier(trainingData: trainingDataTable, textColumn: "text", labelColumn: "label")
+    
 } catch {
     print(error.localizedDescription)
 }
