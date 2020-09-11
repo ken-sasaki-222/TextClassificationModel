@@ -47,6 +47,9 @@ do {
     shortDescription: "ポジティブとネガティブにテキストを分類するようにトレーニングされたモデル",
     version: "1.0")
     
+    //CoreMLモデルに関するパスと情報を取得してモデルを作成
+//    try sentimentClassifier.write(to: modelFileURL, metadata: metadate)
+    
 } catch {
     print(error.localizedDescription)
 }
