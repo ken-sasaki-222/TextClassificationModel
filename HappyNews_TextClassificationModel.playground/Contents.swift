@@ -39,10 +39,13 @@ do {
     
     print(message)
     
-    //CoreMLモデルとして保存するpathを変数化
+    //CoreMLモデルとして保存するパスを変数化
     let modelFileURL = URL(fileURLWithPath: "/Users/sasakiken/ios_projects/HappyNews_TextClassificationModel/HappyNews_TextClassification.mlmodel")
     
-    
+    //今回作成するモデルに関する情報
+    let metadate = MLModelMetadata(author: "Ken Sasaki",
+    shortDescription: "ポジティブとネガティブにテキストを分類するようにトレーニングされたモデル",
+    version: "1.0")
     
 } catch {
     print(error.localizedDescription)
