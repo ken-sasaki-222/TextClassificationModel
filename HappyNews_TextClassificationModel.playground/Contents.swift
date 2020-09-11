@@ -22,8 +22,8 @@ do {
     //テキスト分類の作成とトレーニング
     let sentimentClassifier = try MLTextClassifier(trainingData: trainingDataTable, textColumn: "text", labelColumn: "label")
     
-    //分類器の精度の評価
-    let evaluationMetrics = sentimentClassifier.evaluation(on: testingDataTable)
+    //分類器の精度と評価
+    let evaluationMetrics = sentimentClassifier.evaluation(on: testingDataTable, textColumn: "text", labelColumn: "label")
     
     let trainingAccuracy   = (1.0 - sentimentClassifier.trainingMetrics.classificationError) * 100
     let validationAccuracy = (1.0 - sentimentClassifier.validationMetrics.classificationError) * 100
@@ -31,10 +31,10 @@ do {
 
     
     let message = """
-    ===================================================
-    Training   accuracy: \(trainingAccuracy)
-    Varidation accuracy: \(validationAccuracy)
-    Evaluation accuracy: \(evaluationAccuracy)
+    ==========================================================
+    Training   accuracy(トレーニング精度)　: \(trainingAccuracy)
+    Varidation accuracy(バリデーション精度): \(validationAccuracy)
+    Evaluation accuracy(評価精度)　　　　　: \(evaluationAccuracy)
 """
     
     print(message)
