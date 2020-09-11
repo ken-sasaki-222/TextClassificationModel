@@ -39,6 +39,11 @@ do {
     
     print(message)
     
+    //CoreMLモデルとして保存するpathを変数化
+    let modelFileURL = URL(fileURLWithPath: "/Users/sasakiken/ios_projects/HappyNews_TextClassificationModel/HappyNews_TextClassification.mlmodel")
+    
+    
+    
 } catch {
     print(error.localizedDescription)
 }
