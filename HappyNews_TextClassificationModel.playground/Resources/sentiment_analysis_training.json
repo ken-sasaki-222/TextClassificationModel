@@ -942,5 +942,377 @@
   {
     "text": "コロナ感染を公表",
     "label": "negative"
+  },
+  {
+    "text": "東北や関東甲信 激しい雨注意",
+    "label": "negative"
+  },
+  {
+    "text": "世界の新規感染者 最多を更新",
+    "label": "negative"
+  },
+  {
+    "text": "「メガネ屋の私から言わせてみれば…」アニメやドラマの”本気出す時メガネを外す”演出に老舗店の四代目がツッコミ",
+    "label": "positive"
+  },
+  {
+    "text": "高橋メアリージュン＆ユウ姉妹がCM初共演 ",
+    "label": "positive"
+  },
+  {
+    "text": "「あれ以上、厳しい経験はない」永瀬拓矢二冠は試練の“超過密日程”を乗り越え「鬼」になった(",
+    "label": "negative"
+  },
+  {
+    "text": "永瀬正敏、芦田愛菜のコメント力に感服「しっかりしてる」",
+    "label": "positive"
+  },
+  {
+    "text": "マスク拒否の客下ろす",
+    "label": "negative"
+  },
+  {
+    "text": "山田優、エレガントなルームウェア姿を披露「めちゃくちゃお洒落」「非常に美しい」と反響",
+    "label": "positive"
+  },
+  {
+    "text": "三船美佳、長女プロデュースのマタニティフォト公開 「ホントこの子は多才」“親バカ”ぶり披露",
+    "label": "positive"
+  },
+  {
+    "text": "大英博物館 葛飾北斎の絵画100点以上を新たに発見 オンライン公開がスタート",
+    "label": "positive"
+  },
+  {
+    "text": "倒産「予備軍多い」年末急増?",
+    "label": "negative"
+  },
+  {
+    "text": "まだ台風シーズン 秋が怖い訳",
+    "label": "negative"
+  },
+  {
+    "text": "渋野 終盤に崩れ「情けない」",
+    "label": "negative"
+  },
+  {
+    "text": "「一刻も早く同性婚を認めて」 パートナーシップ制度では解消されない課題、“新たな結婚・婚姻のカタチ”の議論も",
+    "label": "positive"
+  },
+  {
+    "text": "T次期型は?10年目のプリウスα,
+    "label": "positive"
+  },
+  {
+    "text": "「香水」瑛人の紅白出場内定",
+    "label": "positive"
+  },
+  {
+    "text": "新型対応 知事ら8割政府評価",
+    "label": "positive"
+  },
+  {
+    "text": "嵐 企業13社と夢応援する企画",
+    "label": "positive"
+  },
+  {
+    "text": "家トレ人気 ダンベル輸入急増",
+    "label": "negative"
+  },
+  {
+    "text": "しぶそば閉店 迅速提供の裏側",
+    "label": "negative"
+  },
+  {
+    "text": "脱ジャンク?スナック菓子の今",
+    "label": "positive"
+  },
+  {
+    "text": "ドコモ過去対応に銀行不信感",
+    "label": "negative"
+  },
+  {
+    "text": "ドコモ口座 偽HPで情報入手か",
+    "label": "negative"
+  },
+  {
+    "text": "ジャルジャル 福徳秀介が結婚",
+    "label": "positive"
+  },
+  {
+    "text": "不正 スマホ決済拡大に影響?",
+    "label": "negative"
+  },
+  {
+    "text": "ドコモ口座 便乗メールに注意",
+    "label": "negative"
+  },
+  {
+    "text": "圧倒的優位の菅氏 今日総裁選",
+    "label": "positive"
+  },
+  {
+    "text": "地方票 菅氏が過半数確保へ",
+    "label": "positive"
+  },
+  {
+    "text": "SNS中傷に苦悩 店の潔白まで",
+    "label": "negative"
+  },
+  {
+    "text": "クマ最多の6285頭捕獲 19年度",
+    "label": "negative"
+  },
+  {
+    "text": "胎児に脳の病気 選んだ中絶",
+    "label": "negative"
+  },
+  {
+    "text": "インフルワクチン 高齢者優先",
+    "label": "negative"
+  },
+  {
+    "text": "拘束の12人消息不明 香港",
+    "label": "negative"
+  },
+  {
+    "text": "Fischer’sンダホ 第1子誕生",
+    "label": "positive"
+  },
+  {
+    "text": "ポケモン ゴールデン帯に復活",
+    "label": "positive"
+  },
+  {
+    "text": "愛之助 黒崎役は人生の分岐点",
+    "label": "positive"
+  },
+  {
+    "text": "床嶋佳子、医師と結婚",
+    "label": "positive"
+  },
+  {
+    "text": "はやぶさ2 次は1998KY26へ",
+    "label": "positive"
+  },
+  {
+    "text": "英大手、ワクチン治験再開",
+    "label": "positive"
+  },
+  {
+    "text": "中国の報復 米「行き過ぎ」",
+    "label": "negative"
+  },
+  {
+    "text": "残酷? 台湾の神豚祭り出品減",
+    "label": "negative"
+  },
+  {
+    "text": "中国で離婚増加 アプリで浮気",
+    "label": "negative"
+  },
+  {
+    "text": "現役復帰戦で負傷",
+    "label": "negative"
+  },
+  {
+    "text": "宮城の夫婦殺傷 計画的犯行か",
+    "label": "negative"
+  },
+  {
+    "text": "映像 トルコ首都で巨大砂嵐",
+    "label": "negative"
+  },
+  {
+    "text": "古墳では?HPの測量図で気づく",
+    "label": "positive"
+  },
+  {
+    "text": "初のアフガン和平協議 始まる",
+    "label": "positive"
+  },
+  {
+    "text": "AXA H3初号機打ち上げを延期",
+    "label": "positive"
+  },
+  {
+    "text": "2人不正受給 沖タイ社長謝罪",
+    "label": "negative"
+  },
+  {
+    "text": "女性が22.4mの波乗り ギネス",
+    "label": "positive"
+  },
+  {
+    "text": "MBS辻アナ&G山本 結婚していた",
+    "label": "positive"
+  },
+  {
+    "text": "久保と岡崎 日本人対決が実現",
+    "label": "positive"
+  },
+  {
+    "text": "大坂マスク抗議 祖父「偉い」",
+    "label": "positive"
+  },
+  {
+    "text": "引退の元貴ノ富士 RIZIN参戦",
+    "label": "positive"
+  },
+  {
+    "text": "「職場でいじめられている」と相談されたときに絶対NGの回答例",
+    "label": "negative"
+  },
+  {
+    "text": "研究員殺害事件 遺棄疑い男逮捕",
+    "label": "negative"
+  },
+  {
+    "text": "研究員殺害 互いに連絡先知る",
+    "label": "negative"
+  },
+  {
+    "text": "「この一冊で佐藤亜紀の小説に出合うあなたが羨ましくてならない」宝の山の入口のようなインテリジェンス",
+    "label": "positive"
+  },
+  {
+    "text": "100年の老舗がゴロゴロ「神保町」から学ぶ変わらない生き方",
+    "label": "positive"
+  },
+  {
+    "text": "ユニクロの柳井社長が自分の功績よりも「誰かの話」を熱く語る理由(",
+    "label": "positive"
+  },
+  {
+    "text": "クセが強いヤギ乳チーズはどう選ぶ？ チーズ専門店で美味しい食べ方を聞いてきた！",
+    "label": "positive"
+  },
+  {
+    "text": "“温めてもおいしい”日本酒リキュールが『月桂冠』から限定発売！",
+    "label": "positive"
+  },
+  {
+    "text": "「掃除をする時にするマスク」おすすめ5選　舞い上がるホコリやカビから体を守ろう",
+    "label": "positive"
+  },
+  {
+    "text": "東京146人感染 20代最多43人",
+    "label": "negative"
+  },
+  {
+    "text": "川で男女流され1人不明 長野",
+    "label": "negative"
+  },
+  {
+    "text": "稲妻のような光と片頭痛に関係はあるのか？【みんなの眼科教室 教えて清澤先生】",
+    "label": "positive"
+  },
+  {
+    "text": "道内バイク事故 コロナで増?",
+    "label": "negative"
+  },
+  {
+    "text": "老化進行を遅らせたければ…ナスは皮のまま水にさらさず調理する",
+    "label": "positive"
+  },
+  {
+    "text": "嵐チケ不正転売 ファンの後悔",
+    "label": "negative"
+  },
+  {
+    "text": "顔を一回り小さく見せる、陰影コスメと簡単テク。もう失敗しない！",
+    "label": "positive"
+  },
+  {
+    "text": "発熱や味覚障害なくても要注意…コロナが疑われる「ありがちな症状」",
+    "label": "negative"
+  },
+  {
+    "text": "アルペンアウトドアーズ旗艦店が東海圏に出店",
+    "label": "positive"
+  },
+  {
+    "text": "マスク着用を拒否した男性が離陸直前に降ろされるトラブル 北海道・奥尻空港",
+    "label": "negative"
+  },
+  {
+    "text": "「みやこ浄土ケ浜遊覧船」海からの絶景見納めへ",
+    "label": "positive"
+  },
+  {
+    "text": "【不登校　居場所を探して】失った自信取り戻す「不登校特例校」",
+    "label": "negative"
+  },
+  {
+    "text": "1日10回で“全身痩せる”神スクワット、フェイスタオルを用意しよう",
+    "label": "positive"
+  },
+  {
+    "text": "新たに女子生徒2人が感染 生徒7人の感染が確認されている千葉県の県立高",
+    "label": "negative"
+  },
+  {
+    "text": "野菜もたっぷり！コンビニ3社「ヘルシー系うどん」を実食比較",
+    "label": "positive"
+  },
+  {
+    "text": "徹底チェック「ウウデタテのキホン」。分厚い胸板を作りたい!",
+    "label": "positive"
+  },
+  {
+    "text": "犬「そこのジャーキー持ってきて」　無気力すぎるワンコのあお向け姿がかわいい",
+    "label": "positive"
+  },
+  {
+    "text": "ANAとポーラ・オルビス、宇宙で使える化粧品「CosmoSkin」開発スタート。宇宙飛行士や極地建築家が体験とともに商品化への課題を語る",
+    "label": "positive"
+  },
+  {
+    "text": "元イッセイ ミヤケ メンのデザイナー高橋悠介による新ブランド「CFCL」がデビュー、ニットに特化したコレクションを発表",
+    "label": "positive"
+  },
+  {
+    "text": "70代の夫婦が刺され夫が死亡、犯人は逃走 宮城県柴田町",
+    "label": "negative"
+  },
+  {
+    "text": "大人バッグの理想形、フェンディの「ピーカブー」",
+    "label": "positive"
+  },
+  {
+    "text": "猫に嫌われる人は？　猫へのNG対応を見直そう(ねこのきもち WEB MAGAZINE)",
+    "label": "positive"
+  },
+  {
+    "text": "ライザップ、幼児雑誌とのコラボ…仕掛け人が語る吉野家の「ファン作り」の流儀",
+    "label": "positive"
+  },
+  {
+    "text": "東京都で新たに226人の感染を確認 重症者は1人減り23人",
+    "label": "negative"
+  },
+  {
+    "text": "社会人が苦しむ「仕事中の眠気、脱力感」に潜在する死亡リスク",
+    "label": "negative"
+  },
+  {
+    "text": "金正恩委員長、水害被災地を再訪問",
+    "label": "negative"
+  },
+  {
+    "text": "ウォーレン・バフェットが日本の商社に投資！彼から学ぶ、割安な銘柄を探す方法とは？(",
+    "label": "positive"
+  },
+  {
+    "text": "宮古ブルーに包まれて絶景ゴルフを堪能できる「ホテル シギラミラージュ」",
+    "label": "positive"
+  },
+  {
+    "text": "86歳祖父「カッとなってやった」 福井市の女子高校生殺害",
+    "label": "negative"
+  },
+  {
+    "text": "「おいしい浮世絵展」を自宅でも。閉幕後の「デジタル展覧会」で作品解説などを配信",
+    "label": "positive"
   }
 ]
