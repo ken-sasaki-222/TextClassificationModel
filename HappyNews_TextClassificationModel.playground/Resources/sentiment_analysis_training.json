@@ -2166,5 +2166,365 @@
   {
     "text": "秋場所69人休場 さみしい空気",
     "label": "positive"
+  },
+  {
+    "text": "大坂なおみ全米V報奨金先送り",
+    "label": "positive"
+  },
+  {
+    "text": "新作「FF16」PS5で発売発表",
+    "label": "positive"
+  },
+  {
+    "text": "PS5は11/12発売 価格も発表",
+    "label": "positive"
+  },
+  {
+    "text": "デジタル庁 22年発足目指す",
+    "label": "positive"
+  },
+  {
+    "text": "菅首相 女性活躍引き継がず?",
+    "label": "positive"
+  },
+  {
+    "text": "西-北日本18日にかけ大雨恐れ",
+    "label": "negative"
+  },
+  {
+    "text": "深夜の就任会見 河野氏が苦言",
+    "label": "negative"
+  },
+  {
+    "text": "Apple 新iPhone",
+    "label": "positive"
+  },
+  {
+    "text": "Apple サービス事業強化へ",
+    "label": "positive"
+  },
+  {
+    "text": "加藤長官 危機管理きっちりと",
+    "label": "positive"
+  },
+  {
+    "text": "首相 縦割り110番の検討指示",
+    "label": "positive"
+  },
+  {
+    "text": "ドコモ口座被害 6割ゆうちょ",
+    "label": "negative"
+  },
+  {
+    "text": "ドコモ口座 過去みずほ被害か",
+    "label": "negative"
+  },
+  {
+    "text": "菅首相 桜を見る会は中止に",
+    "label": "positive"
+  },
+  {
+    "text": "大戸屋HD取締役10人を解任へ",
+    "label": "negative"
+  },
+  {
+    "text": "マツコ ホンマでっかTVを卒業",
+    "label": "positive"
+  },
+  {
+    "text": "ゆりやん 失敗はどうでもいい",
+    "label": "positive"
+  },
+  {
+    "text": "SBI証券 9864万円が不正流出",
+    "label": "negative"
+  },
+  {
+    "text": "日立 英原発建設計画から撤退",
+    "label": "negative"
+  },
+  {
+    "text": "ジェットスター 希望退職募集",
+    "label": "negative"
+  },
+  {
+    "text": "竹内由恵アナが第1子妊娠",
+    "label": "positive"
+  },
+  {
+    "text": "JR東4180億円赤字 民営化後初",
+    "label": "negative"
+  },
+  {
+    "text": "五輪銀 三宅諒が結婚を発表",
+    "label": "positive"
+  },
+  {
+    "text": "武藤嘉紀、エイバルに移籍",
+    "label": "positive"
+  },
+  {
+    "text": "目の再生医療 iPS移植手術へ",
+    "label": "positive"
+  },
+  {
+    "text": "タピオカバブル崩壊 専門店減",
+    "label": "negative"
+  },
+  {
+    "text": "岸部さん喜ばせた 再結成宣言",
+    "label": "positive"
+  },
+  {
+    "text": "気象庁HPに不適切広告 停止に",
+    "label": "negative"
+  },
+  {
+    "text": "iOS14更新に注意 不具合も",
+    "label": "negative"
+  },
+  {
+    "text": "菅首相 最優先課題はコロナ",
+    "label": "negative"
+  },
+  {
+    "text": "テラハBPO審理へ 異例の早さ",
+    "label": "negative"
+  },
+  {
+    "text": "インド 感染者が500万人超え",
+    "label": "negative"
+  },
+  {
+    "text": "H&M 新疆巡り業者と取引停止",
+    "label": "negative"
+  },
+  {
+    "text": "米大統領 数週でワクチン得る",
+    "label": "negative"
+  },
+  {
+    "text": "毒物被害 露男性に帰国の意思",
+    "label": "negative"
+  },
+  {
+    "text": "何のための花火 問い直した夏",
+    "label": "positive"
+  },
+  {
+    "text": "まさに死闘…再び退場者を出したパリSG、9人で戦うも土壇場ゴールで今季初白星",
+    "label": "positive"
+  },
+  {
+    "text": "U-19日本代表がミニ合宿で変貌した理由 胸に刺さった内田“コーチ”の言葉「覚悟が足りないと…」",
+    "label": "positive"
+  },
+  {
+    "text": "バロテッリの移籍先が見つからないものの“敏腕代理人”は自信あり「常に解決策がある。何も心配していない。欧州に留まるだろう」",
+    "label": "positive"
+  },
+  {
+    "text": "ソフトB 3軍担当スタッフ急逝",
+    "label": "negative"
+  },
+  {
+    "text": "大瀬良が右肘手術 今季は絶望",
+    "label": "negative"
+  },
+  {
+    "text": "スアレス、一転してバルセロナ残留の可能性も？クーマン「契約を尊重している」",
+    "label": "positive"
+  },
+  {
+    "text": "自らを追い込み、責任を背負うことで劇的に成長を遂げた大坂なおみ",
+    "label": "positive"
+  },
+  {
+    "text": "【MLB】田中将大、今オフ注目のFA選手で8位 米メディアは残留予想「失うわけにはいかない」",
+    "label": "positive"
+  },
+  {
+    "text": "G元木ヘッド 虫垂炎で入院",
+    "label": "negative"
+  },
+  {
+    "text": "ダル白星消える 僕が悪かった",
+    "label": "negative"
+  },
+  {
+    "text": "都163人感染 2日連続100人超",
+    "label": "negative"
+  },
+  {
+    "text": "愛弟子・沢村も放出…巨人独走の理由は「原監督の冷酷司令」",
+    "label": "positive"
+  },
+  {
+    "text": "池袋暴走事故 10月8日初公判",
+    "label": "negative"
+  },
+  {
+    "text": "漫画原作者 別の事件で起訴",
+    "label": "negative"
+  },
+  {
+    "text": "陸上ハンマー当たり 生徒搬送",
+    "label": "negative"
+  },
+  {
+    "text": "新生児殺害 母に懲役10年求刑",
+    "label": "negative"
+  },
+  {
+    "text": "東北道で最高120kmに 影響は",
+    "label": "positive"
+  },
+  {
+    "text": "内田篤人のコーチ姿を見てよみがえった14年前の記憶 「U-19日本代表の仲間は本当に大切な存在」",
+    "label": "positive"
+  },
+  {
+    "text": "研究員殺害 動機いまだ不明",
+    "label": "negative"
+  },
+  {
+    "text": "＜速報＞男子下部ツアー開幕戦2日目の競技がスタート 三浦桃香はパー発進",
+    "label": "positive"
+  },
+  {
+    "text": "Ｊ1リーグで大流血騒動！「GK顔面キック」でイニエスタが医療要請！",
+    "label": "negative"
+  },
+  {
+    "text": "夏未登板もスカウトが熱視線。大型左腕・千葉葵（滋賀学園）が復活するまで",
+    "label": "positive"
+  },
+  {
+    "text": "ジェームズが「オールNBA」に16回目の選出 ブライアントらを抜いて歴代単独最多！",
+    "label": "positive"
+  },
+  {
+    "text": "先代井筒親方死去から１年 伝授の技であと一歩",
+    "label": "negative"
+  },
+  {
+    "text": "クラブワーストタイの７連敗…今季初３バックもクラブ史上最低勝ち点での折り返し",
+    "label": "negative"
+  },
+  {
+    "text": "レイズの筒香は2打数無安打 ナショナルズ戦",
+    "label": "negative"
+  },
+  {
+    "text": "ナダル「完璧なスタート。あんな良いプレーできるとは…」全米OP4強のカレノ=ブスタを圧倒",
+    "label": "positive"
+  },
+  {
+    "text": "あわや？再スタート時、ブレーキから白煙を上げたハミルトン。その原因はブレーキダクトを閉じすぎていたから？",
+    "label": "negative"
+  },
+  {
+    "text": "江本氏、巨人の若手野手陣を評価「必死さが出ている」",
+    "label": "positive"
+  },
+  {
+    "text": "【尾車親方の目】御嶽海よ、何をしたかったのか",
+    "label": "negative"
+  },
+  {
+    "text": "朝乃山、４日目に初白星…ＯＢ朝青龍「勝ち力ある！」Ｖ率０％覆せるか",
+    "label": "positive"
+  },
+  {
+    "text": "阪神小野寺１発含む２打点「支配下の期限あと半月」",
+    "label": "positive"
+  },
+  {
+    "text": "レイズ・筒香嘉智 代打出場も１５３キロ以上の速球攻めに屈して２打席連続三振で途中交代",
+    "label": "negative"
+  },
+  {
+    "text": "BいわきＦＣ、天皇杯３年ぶり初戦突破 １７年初出場でＪ１札幌撃破ジャイキリの夢再び",
+    "label": "positive"
+  },
+  {
+    "text": "畑岡奈紗が山火事の影響で今週の出場を取りやめ ブルック・ヘンダーソンも欠場表明",
+    "label": "negative"
+  },
+  {
+    "text": "「FANATICS」側、スタッフのセクハラ論議に謝罪…「深刻に受け止め責任者には措置講じる」",
+    "label": "negative"
+  },
+  {
+    "text": "コントは「大げさな芝居ばかり」(",
+    "label": "negative"
+  },
+  {
+    "text": "Sprint - terrible customer service.",
+    "label": "negative"
+  },
+  {
+    "text": "【仙台】椎橋慧也、勝利へ超プレス宣言リーグ４連敗＆７戦勝ちなし阻止へ一丸",
+    "label": "positive"
+  },
+  {
+    "text": "【札幌】１０戦ぶり勝利…つらぬいた攻撃サッカー、駒井善成の豪快ミドル呼んだ",
+    "label": "positive"
+  },
+  {
+    "text": "マー君18日先発へ抱負「投球術という部分では…」",
+    "label": "positive"
+  },
+  {
+    "text": "川岸史果の最新クラブセッティング 新ドライバーで本来の自信と飛距離を取り戻した",
+    "label": "positive"
+  },
+  {
+    "text": "テレ朝・弘中綾香アナが“イラっとする”こと「心配してるフリをして…教えるなよって思う」",
+    "label": "negative"
+  },
+  {
+    "text": "ユベントスDFの交渉が一時中断。移籍予定だったローマDFがジェノア行きを拒否か",
+    "label": "negative"
+  },
+  {
+    "text": "来年のU-20ワールドカップを目指す有望株たちがリスタート！U-19代表が紅白戦を実施",
+    "label": "positive"
+  },
+  {
+    "text": "レッドブルF1代表が語るアルボンの長所と短所「初表彰台は大きな転機になる」",
+    "label": "positive"
+  },
+  {
+    "text": "「素晴らしいリアクション」マルセイユ酒井、絶妙な“股抜き阻止”を英メディアも絶賛",
+    "label": "positive"
+  },
+  {
+    "text": "バルサ プレシーズン2連勝 ドブレーテのメッシが存在感放つ",
+    "label": "positive"
+  },
+  {
+    "text": "テレ朝・弘中綾香アナ「ＳＮＳで上司の友達申請」で「爆問」太田光と白熱議論「空気を読んで友達申請してくるなっていう話なんです」",
+    "label": "negative"
+  },
+  {
+    "text": "ジェノアがサッスオーロからDFゴルダニーガ、スウォンジーからFWアソロをレンタルで獲得",
+    "label": "positive"
+  },
+  {
+    "text": "7カ月ぶりのピッチで「みんなのゴール」。野村直輝の「信念」を感じろ",
+    "label": "positive"
+  },
+  {
+    "text": "渡哲也さん静かに四十九日法要 家族ら少数参列",
+    "label": "negative"
+  },
+  {
+    "text": "『のだめカンタービレ』なぜ愛され続ける名作に？“才能”に説得力を与えた上野樹里の表現力",
+    "label": "negative"
+  },
+  {
+    "text": "アメフト復帰のコージ、2カ月後に迫る10年ぶりの公式戦に向けての思いをつづる",
+    "label": "positive"
   }
 ]
