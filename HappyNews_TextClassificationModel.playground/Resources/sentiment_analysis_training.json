@@ -3502,5 +3502,393 @@
   {
     "text": "新型コロナ 福島県内１か月連続感染確認",
     "label": "negative"
-  }
+  },
+  {
+      "text": "安保法5年 米軍と一体化進む",
+      "label": "positive"
+    },
+    {
+      "text": "福島・新型コロナ入院患者２人が亡くなる",
+      "label": "negative"
+    },
+    {
+      "text": "駐車中に車動く 女性が重体",
+      "label": "negative"
+    },
+    {
+      "text": "安倍氏が靖国参拝 約7年ぶり",
+      "label": "positive"
+    },
+    {
+      "text": "ジャパンライフ 被害香港でも",
+      "label": "negative"
+    },
+    {
+      "text": "元会長 50年前から批判浴び",
+      "label": "negative"
+    },
+    {
+      "text": "GoTo東京予約解禁 延期不安も",
+      "label": "negative"
+    },
+    {
+      "text": "関西みらい銀251億円不正融資",
+      "label": "negative"
+    },
+    {
+      "text": "連休初日 空の便緩やかに回復",
+      "label": "positive"
+    },
+    {
+      "text": "福岡の117歳 国内歴代最高齢",
+      "label": "positive"
+    },
+    {
+      "text": "緩和 ハマスタ上限1.6万人に",
+      "label": "positive"
+    },
+    {
+      "text": "上戸彩 半沢の視聴率ゾクッと",
+      "label": "positive"
+    },
+    {
+      "text": "三菱自 アイミーブ生産終了へ",
+      "label": "negative"
+    },
+    {
+      "text": "携帯値下げ 首相が検討を指示",
+      "label": "positive"
+    },
+    {
+      "text": "PS5予約は抽選主流 転売防止",
+      "label": "positive"
+    },
+    {
+      "text": "不妊治療 来春に助成拡充へ",
+      "label": "positive"
+    },
+    {
+      "text": "Eテレ 売れっ子芸人なぜ重宝",
+      "label": "positive"
+    },
+    {
+      "text": "鶴瓶 愛の不時着女優とコラボ",
+      "label": "positive"
+    },
+    {
+      "text": "中井貴一59歳 ピカチュウ祝福",
+      "label": "positive"
+    },
+    {
+      "text": "TikTok 米で20日から使用禁止",
+      "label": "negative"
+    },
+    {
+      "text": "モヤさま日9に移動で原点回帰",
+      "label": "positive"
+    },
+    {
+      "text": "三船美佳 第2子女児を出産",
+      "label": "positive"
+    },
+    {
+      "text": "iOS14初の大きなバグ発見か",
+      "label": "negative"
+    },
+    {
+      "text": "京大准教授ら イグ・ノーベル",
+      "label": "positive"
+    },
+    {
+      "text": "不正出金「底なし」の様相",
+      "label": "negative"
+    },
+    {
+      "text": "不具合相次ぐ COCOA改修へ",
+      "label": "negative"
+    },
+    {
+      "text": "相模湾に異変「カツオ爆釣",
+      "label": "positive"
+    },
+    {
+      "text": "面白いから「クソ物件」再建?",
+      "label": "negative"
+    },
+    {
+      "text": "米大統領 菅首相との会談意欲",
+      "label": "positive"
+    },
+    {
+      "text": "シッター巡る事件 情報共有検討",
+      "label": "negative"
+    },
+    {
+      "text": "内閣方針「震災」記載消える",
+      "label": "negative"
+    },
+    {
+      "text": "琴奨菊再出場へ 十両陥落阻止",
+      "label": "positive"
+    },
+    {
+      "text": "高鳥修一衆院議員 コロナ感染",
+      "label": "negative"
+    },
+    {
+      "text": "大山2HR バース氏偉業へ前進",
+      "label": "positive"
+    },
+    {
+      "text": "預託商法 繰り返される被害",
+      "label": "negative"
+    },
+    {
+      "text": "「お墨付きがほしい」 子供の医療ケア施設は手探り",
+      "label": "positive"
+    },
+    {
+      "text": "蚊も夏バテ?実は秋に「活発」",
+      "label": "positive"
+    },
+    {
+      "text": "BUMP直井 不倫報道を謝罪",
+      "label": "negative"
+    },
+    {
+      "text": "漫画家の明智抄さん8月に死去",
+      "label": "negative"
+    },
+    {
+      "text": "治療にあたる医師が監修する新型コロナを学べるQ&A",
+      "label": "positive"
+    },
+    {
+      "text": "きょうから人数制限緩和 京都市で大規模イベント",
+      "label": "positive"
+    },
+    {
+      "text": "トイレ1日40回 潰瘍性大腸炎",
+      "label": "negative"
+    },
+    {
+      "text": "妊娠後期 コロナ症状重い傾向",
+      "label": "negative"
+    },
+    {
+      "text": "菅政権は連休中も稼働 あすにも日米首脳電話会談",
+      "label": "positive"
+    },
+    {
+      "text": "産後うつ 精神論で語る危うさ",
+      "label": "negative"
+    },
+    {
+      "text": "動物園で「余る」カバどこへ",
+      "label": "negative"
+    },
+    {
+      "text": "4連休初日「楽しみ」 羽田発の国内線は満席相次ぐ",
+      "label": "positive"
+    },
+    {
+      "text": "動物園で…周遊ツアーで…観光地の4連休初日",
+      "label": "positive"
+    },
+    {
+      "text": "米最高裁 リベラル派判事死去",
+      "label": "negative"
+    },
+    {
+      "text": "平壌会談2年 南北融和進まず",
+      "label": "negative"
+    },
+    {
+      "text": "花回廊オータムフェス開幕、鳥取 サルビア10万株やコスモス",
+      "label": "positive"
+    },
+    {
+      "text": "感染増「局地封鎖」相次ぐ英",
+      "label": "negative"
+    },
+    {
+      "text": "再エネ100％・CO2ゼロの海ごみ調査船が東京に",
+      "label": "positive"
+    },
+    {
+      "text": "レゴの警察官が一日署長 安全運転呼び掛け、愛知",
+      "label": "positive"
+    },
+    {
+      "text": "日本人の月面探査に照準 JAXA予算、過去最高に",
+      "label": "positive"
+    },
+    {
+      "text": "羽田 保安検査場で50m行列",
+      "label": "positive"
+    },
+    {
+      "text": "世界の感染者数 3000万人超",
+      "label": "negative"
+    },
+    {
+      "text": "没後50年 ジミヘンがいた部屋",
+      "label": "negative"
+    },
+    {
+      "text": "フォレスト・ガンプ著者 死去",
+      "label": "negative"
+    },
+    {
+      "text": "G今季初 2戦連続ゼロ封負け",
+      "label": "negative"
+    },
+    {
+      "text": "貴景勝と朝乃山 異例の沈黙",
+      "label": "negative"
+    },
+    {
+      "text": "菅首相と力合わす 都知事強調",
+      "label": "positive"
+    },
+    {
+      "text": "横浜市長 IR事業費見直し示唆",
+      "label": "positive"
+    },
+    {
+      "text": "中西学さん 苦悩と逆境の27年",
+      "label": "negative"
+    },
+    {
+      "text": "千葉市長、知事選に出馬へ",
+      "label": "positive"
+    },
+    {
+      "text": "大坂なおみ 全仏OPは欠場",
+      "label": "negative"
+    },
+    {
+      "text": "土曜中京の注目激走馬…中京10Ｒ大府特別",
+      "label": "positive"
+    },
+    {
+      "text": "“帝京長岡のラポルト”へ。CBコンバートの2年生レフティー・松村晟怜が完封勝利に貢献",
+      "label": "positive"
+    },
+    {
+      "text": "渋野日向子は１ホール残し、１アンダーで首位と５打差の暫定３９位 ポートランド・クラシック第１Ｒは日没順延",
+      "label": "positive"
+    },
+    {
+      "text": "木更津総合、7回コールド発進！144キロ右腕・島田舜也は6回無失点の快投",
+      "label": "positive"
+    },
+    {
+      "text": "2歳肘打ち動画が拡散 父逮捕",
+      "label": "negative"
+    },
+    {
+      "text": "木更津総合、7回コールド発進！144キロ右腕・島田舜也は6回無失点の快投",
+      "label": "positive"
+    },
+    {
+      "text": "女子高校生が切り付けられた事件で会社員の男逮捕",
+      "label": "negative"
+    },
+    {
+      "text": "80代女性宅に2人組強盗 今月上旬には“アポ電”",
+      "label": "negative"
+    },
+    {
+      "text": "静岡県で1人が新型コロナ感染",
+      "label": "negative"
+    },
+    {
+      "text": "内縁の妻を殺害しようとした疑い 77歳の男を逮捕",
+      "label": "negative"
+    },
+    {
+      "text": "熊本豪雨 5100人が今も避難か",
+      "label": "negative"
+    },
+    {
+      "text": "中3女子が10日から不明 千葉",
+      "label": "negative"
+    },
+    {
+      "text": "ブルージェイズ山口は１／３回を１四球無失点",
+      "label": "positive"
+    },
+    {
+      "text": "悩める河本結は2オーバー発進 パー5で苦戦し「何が悪かったのか…」",
+      "label": "negative"
+    },
+    {
+      "text": "北口榛花、大会新の６３メートル４５で優勝「成長した自分を見せられた」",
+      "label": "positive"
+    },
+    {
+      "text": "NBA西地区決勝がスタート レイカーズがナゲッツに快勝 デービス37得点",
+      "label": "positive"
+    },
+    {
+      "text": "ウルグアイが10月のW杯予選に向けて26名を招集 スアレス&アラウホが選出",
+      "label": "positive"
+    },
+    {
+      "text": "やり投げ・北口榛花が大会記録63メートル45でV カステラをモグモグでリフレッシュ",
+      "label": "positive"
+    },
+    {
+      "text": "東浩子、サイ・ペイインが首位並走 鈴木愛は1打差で後半へ",
+      "label": "positive"
+    },
+    {
+      "text": "福島千里、全日本実業団は１２秒２５で敗退…",
+      "label": "negative"
+    },
+    {
+      "text": "I'm returning them.",
+      "label": "negative"
+    },
+    {
+      "text": "リベラル派重鎮のルース・ベイダー・ギンズバーグ米最高裁判事が死去 87歳",
+      "label": "negative"
+    },
+    {
+      "text": "渋野は滑り出し好調トップまで5打差の暫定39位",
+      "label": "positive"
+    },
+    {
+      "text": "巨人阿部ヘッド代行精力的 ノックにキャッチボール",
+      "label": "positive"
+    },
+    {
+      "text": "新潟鄭大世の夫人手作り「テセキムチ」35分で完売",
+      "label": "positive"
+    },
+    {
+      "text": "「ピノやん」左中間への中飛で三塁へ！ 鷹・周東の驚速タッチアップにファン驚き",
+      "label": "positive"
+    },
+    {
+      "text": "今月10日から行方不明になっていた中学3年の女子生徒を無事保護 千葉・習志野市",
+      "label": "negative"
+    },
+    {
+      "text": "「走者を置いた状態が最悪」対戦投手が嫌がる近藤健介の威圧感と技術",
+      "label": "positive"
+    },
+    {
+      "text": "交通量回復 高速は渋滞の恐れ",
+      "label": "negative"
+    },
+    {
+      "text": "「賢者の贈り物」ミシャ・ペトロヴィッチ論(1)日本サッカー史に残る「ミシャ式」の衝撃",
+      "label": "positive"
+    },
+    {
+      "text": "女子高校生切りつけ 23歳の男を逮捕 出頭も容疑を否認",
+      "label": "negative"
+    }
 ]
