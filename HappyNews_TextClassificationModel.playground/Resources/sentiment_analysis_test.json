@@ -182,5 +182,17 @@
   {
       "text": "コロナ倒産",
       "label": "negative"
+  },
+  {
+      "text": "俳優・斎藤洋介さん死去 69歳",
+      "label": "negative"
+  },
+  {
+      "text": "俳優・藤木孝さん死去 80歳",
+      "label": "negative"
+  },
+  {
+      "text": "長澤奈央 第3子男児を出産",
+      "label": "positive"
   }
 ]
